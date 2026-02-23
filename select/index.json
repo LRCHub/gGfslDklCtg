@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Stuck on you",
+  "base_artist": "Nowlu",
+  "createdAt": "2026-02-23T11:21:26.594701Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stuck On You - Demo Version",
+      "artist": "Lionel Richie",
+      "has_synced": false,
+      "path": "select/01_Stuck_On_You_-_Demo_Version_Lionel_Richie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stuck On You",
+      "artist": "Savatage",
+      "has_synced": true,
+      "path": "select/02_Stuck_On_You_Savatage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stuck On You",
+      "artist": "Savatage",
+      "has_synced": true,
+      "path": "select/03_Stuck_On_You_Savatage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stuck on You",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/04_Stuck_on_You_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stuck On You",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/05_Stuck_On_You_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stuck On You",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/06_Stuck_On_You_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stuck on You (take 1)",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/07_Stuck_on_You_(take_1)_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stuck On You",
+      "artist": "Giveon",
+      "has_synced": true,
+      "path": "select/08_Stuck_On_You_Giveon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stuck on You",
+      "artist": "GIVĒON",
+      "has_synced": true,
+      "path": "select/09_Stuck_on_You_GIVĒON.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stuck On You",
+      "artist": "Lionel Richie",
+      "has_synced": true,
+      "path": "select/10_Stuck_On_You_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stuck on You",
+      "artist": "Lionel Richie",
+      "has_synced": true,
+      "path": "select/11_Stuck_on_You_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stuck on Me + You",
+      "artist": "Emily Ann Roberts",
+      "has_synced": true,
+      "path": "select/12_Stuck_on_Me_+_You_Emily_Ann_Roberts.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stuck On Repeat",
+      "artist": "Little Boots",
+      "has_synced": true,
+      "path": "select/13_Stuck_On_Repeat_Little_Boots.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stuck On Repeat (Fake Blood Remix)",
+      "artist": "Little Boots",
+      "has_synced": false,
+      "path": "select/14_Stuck_On_Repeat_(Fake_Blood_Remix)_Little_Boots.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stuck on Amber",
+      "artist": "The Boo Radleys",
+      "has_synced": false,
+      "path": "select/15_Stuck_on_Amber_The_Boo_Radleys.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stuck on the puzzle",
+      "artist": "Alex Turner",
+      "has_synced": true,
+      "path": "select/16_Stuck_on_the_puzzle_Alex_Turner.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stuck On Stupid",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/17_Stuck_On_Stupid_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Stuck On The Moon",
+      "artist": "Natalie Imbruglia",
+      "has_synced": true,
+      "path": "select/18_Stuck_On_The_Moon_Natalie_Imbruglia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stuck on you",
+      "artist": "Nowlu",
+      "has_synced": false,
+      "path": "select/pl_01_Stuck_on_you_Nowlu.txt"
+    }
+  ]
+}
